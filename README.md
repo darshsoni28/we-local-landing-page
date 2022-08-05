@@ -1,6 +1,6 @@
 ##Prototype of the landing page: 
-public/screenshot.png
 
+![screenshot](https://user-images.githubusercontent.com/66396310/183103199-b1601841-fe50-4651-a330-ea87f04fb5bb.png)
 
 
 
